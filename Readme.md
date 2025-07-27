@@ -201,9 +201,6 @@ Actual performance depends on:
 - Monitor GPU memory usage with `nvidia-smi`
 - Verify image formats are supported
 
-## License
-
-This project is based on academic research and is intended for educational purposes. Please refer to the original research paper for theoretical background and cite appropriately if used in academic work.
 
 ## References
 
