@@ -161,12 +161,8 @@ The implementation handles both CPU and GPU memory:
 **Input formats**: JPEG, PNG, BMP, TGA, PSD, GIF, HDR, PIC, PNM  
 **Output format**: PNG (with optional format specification)
 
-## Academic Information
 
-**Authors**: Mustafa SARAÇ and Mustafa Mert ÖGETÜRK  
-**Course**: Parallel Programming (COMP 429)  
-**Institution**: Koç University  
-**Contact**: msarac13@ku.edu.tr
+
 
 **Original Implementation**: Modified by Burak BASTEM  
 **Base**: Rodinia Benchmark Suite
